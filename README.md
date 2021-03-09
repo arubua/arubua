@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rubua" target="blank"><img src="https://img.shields.io/twitter/follow/rubua?logo=twitter&style=for-the-badge" alt="rubua" /></a> </p>
 
-- 🌱 I’m currently learning **React,Vue, Graphql**
+- 🌱 I’m currently learning **React,CI/CD**
 
 - 🤝 I’m always available for a chat on [twitter](https://twitter.com/rubua)
 
