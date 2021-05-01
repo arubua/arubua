@@ -7,7 +7,7 @@
 
 - 🤝 I’m always available for a chat on [twitter](https://twitter.com/rubua)
 
-- 👨‍💻 Most of my projects are available on [https://github.com/tony254](https://github.com/tony254)
+- 👨‍💻 Most of my projects are available on [https://github.com/arubua](https://github.com/arubua)
 
 - 💬 Ping me about **JavaScript and socccer**
 
