@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anthony Rubua</h1>
-<h3 align="center">A full-stack web developer based in Nairobi.</h3>
+<h3 align="center">My strengths are in FrontEnd development but I can also create endpoints in Node.Yay Javascript</h3>
 
 <p align="left"> <a href="https://twitter.com/rubua" target="blank"><img src="https://img.shields.io/twitter/follow/rubua?logo=twitter&style=for-the-badge" alt="rubua" /></a> </p>
 
-- 🌱 I’m currently learning **React,CI/CD**
+- 🌱 I’m currently learning **Docker,CI/CD** 
 
 - 🤝 I’m always available for a chat on [twitter](https://twitter.com/rubua)
 
