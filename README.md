@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/rubua" target="blank"><img src="https://img.shields.io/twitter/follow/rubua?logo=twitter&style=for-the-badge" alt="rubua" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **Docker,CI/CD** <br><br>🤝 I’m always available for a chat on [twitter](https://twitter.com/rubua)<br><br>👨‍💻 Most of my projects are available on [https://github.com/arubua](https://github.com/arubua)<br><br>💬 Ping me about **JavaScript and socccer**<br><br>📫 Reach me asap **rubua31@gmail.com**
+🌱 I’m currently learning **Docker,CI/CD** <br><br>🤝 I’m always available for a chat on [twitter](https://twitter.com/rubua)<br><br>👨‍💻 Most of my projects are available on [https://github.com/arubua](https://github.com/arubua)<br><br>💬 Ping me about **JavaScript/TypeScript and socccer**<br><br>📫 Reach me asap **rubua31@gmail.com**
 
 
 ## 🌐 Socials:
